@@ -7,7 +7,7 @@
     <style>
         body {
             background-color:rgb(248, 194, 203); 
-            color: #FFFFFF; 
+            color:rgb(18, 18, 18); 
             font-size: 1.5rem; 
         }
         .container {
