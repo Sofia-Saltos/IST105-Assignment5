@@ -6,7 +6,7 @@
     <title>User Input Form</title>
     <style>
         body {
-            background-color: #FFC0CB; 
+            background-color:rgb(248, 194, 203); 
             color: #FFFFFF; 
             font-size: 1.5rem; 
         }
