@@ -31,7 +31,7 @@
         }
         input[type="submit"] {
             background-color:rgb(126, 82, 11); 
-            color: #FFFFFF;
+            color:rgb(15, 15, 15);
             font-size: 1.5rem; 
             font-weight: bold; 
             border: none;
@@ -47,7 +47,7 @@
 <body>
     <div class="container">
         <h2>Enter Your Data</h2>
-        <form action="result.php" method="post">
+        <form action="process.php" method="post">
             <label for="number">Enter a number (e.g., birth year):</label>
             <input type="number" name="number" required><br><br>
 
